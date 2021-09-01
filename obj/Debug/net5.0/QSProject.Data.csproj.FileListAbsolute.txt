@@ -1,0 +1,12 @@
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.AssemblyInfoInputs.cache
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.AssemblyInfo.cs
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\44778\source\repos\QSProject\QSProject.Data\bin\Debug\net5.0\QSProject.Data.deps.json
+C:\Users\44778\source\repos\QSProject\QSProject.Data\bin\Debug\net5.0\QSProject.Data.dll
+C:\Users\44778\source\repos\QSProject\QSProject.Data\bin\Debug\net5.0\ref\QSProject.Data.dll
+C:\Users\44778\source\repos\QSProject\QSProject.Data\bin\Debug\net5.0\QSProject.Data.pdb
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.dll
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\ref\QSProject.Data.dll
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.pdb
+C:\Users\44778\source\repos\QSProject\QSProject.Data\obj\Debug\net5.0\QSProject.Data.csprojAssemblyReference.cache
